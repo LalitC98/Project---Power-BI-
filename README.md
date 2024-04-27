@@ -1,2 +1,2 @@
 # Project---Power-BI-
-Bank Data analysis
+Sales Analysis Dashboard
